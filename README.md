@@ -88,7 +88,7 @@ Atualmente, o projeto contempla:
 * [Fluxograma do sistema](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/diagramas/fluxograma.md)
 * [Modelagem do Banco de Dados](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/database/estrutura-banco-de-dados.md)
 * [Requisitos funcionais](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/requiriments/requsistos-funcionais.md)
-* [Requisitos não](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/requiriments/requisitos-nao-funcionais.md)
+* [Requisitos não funcionais](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/requiriments/requisitos-nao-funcionais.md)
 * [Roadmap](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/roadmap/map.md)
 
 
