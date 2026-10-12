@@ -80,7 +80,6 @@ A aplicação permitirá acompanhar e gerenciar todas as etapas da organização
 
 A documentação técnica detalhada do projeto está disponível na pasta ⁠/docs⁠.
 Atualmente, o projeto contempla:
-* Protótipo da aplicação web (Figma)
 * [Diagrama de caso de uso](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/diagramas/classes.md)
 * [Diagrama de Classes](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/diagramas/classes.md)
 * [Diagrama de Sequências](https://github.com/thiagogosantos57-ops/travelcalendar/blob/main/docs/diagramas/sequencia.md)
