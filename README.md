@@ -34,15 +34,6 @@ O protótipo da aplicação web foi desenvolvido no Figma e apresenta a proposta
 Acessar no Figma   
 [![Figma](https://img.shields.io/badge/Acessar%20Protótipo-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/make/HaxyQWGUBtA7qFaiOH2uqS/Design-System-TravelCalendar?p=f&t=2xUvxgNjESA1ayb2-0)
 
-## Diagramas e UML
-
-A estrutura da aplicação conta com as seguintes documentações de modelagem:
- Diagrama de Casos de Uso
- Diagrama de Fluxo de Autenticação (Login)
- Diagrama de Classes
- Fluxograma do Planejamento de Viagens
- Diagrama de Componentes
- 
 ## infraestrutura Técnica
 
 ### Front-end
