@@ -17,7 +17,7 @@ O sistema será disponibilizado por meio de uma arquitetura centralizada com sup
 
 Como o **TravelCalendar** é uma plataforma focada no usuário final, qualquer pessoa pode acessar o site livremente, realizar seu cadastro, pesquisar destinos utilizando o motor de sazonalidade salvar suas viagens no calendário anual e gerenciar seus checklists de forma individual e intuitiva.
 
-Dessa forma, todos os estabelecimentos utilizarão a mesma aplicação e infraestrutura base, mantendo seus dados, catálogo de destinos e configurações de roteiros gerenciados de forma totalmente individualizada.
+Dessa forma, todos utilizarão a mesma aplicação e infraestrutura base, mantendo seus dados, catálogo de destinos e configurações de roteiros gerenciados de forma totalmente individualizada.
 
 ## Como funciona
 
